@@ -1,0 +1,28 @@
+#EXTM3U size="medium"
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SLjf_teJ8js/Xk0uDnnPoTI/AAAAAAAAAAQ/JijDONyV5zkPEA2Cxrg9A-p7GDXKU4xcgCLcBGAsYHQ/s320/1.png" group-title="Canais de TV (Teste)", Combate
+http://163.172.13.10:8081/loadbalance/combate/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMjAgOTozMDoxNSBQTSZoYXNoX3ZhbHVlPTV4RityNXZrT3dzWk1MUGNLN2RjU1E9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mT42eAqkXxA/Xk1nvvoVuBI/AAAAAAAAABU/NKydQ4oA36EGiLbeAN_jrHFFAzIXgkvOACLcBGAsYHQ/s320/6.jpg" group-title="Canais de TV (Teste)", BBB 20 - LINK 1
+http://163.172.13.10:8081/loadbalance/bbb/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMjAgOToyNjo0NCBQTSZoYXNoX3ZhbHVlPXIvOWJhWVF1Z3JEaGx6Y0t3Uk5rd1E9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mT42eAqkXxA/Xk1nvvoVuBI/AAAAAAAAABU/NKydQ4oA36EGiLbeAN_jrHFFAzIXgkvOACLcBGAsYHQ/s320/6.jpg" group-title="Canais de TV (Teste)", BBB 20 - LINK 2
+http://163.172.13.10:8081/loadbalance/bbb/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMjAgOToyNjo0NCBQTSZoYXNoX3ZhbHVlPXIvOWJhWVF1Z3JEaGx6Y0t3Uk5rd1E9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-q6rvTb5GD-c/XlQiu-c8zrI/AAAAAAAAAEg/cMAoKTogcZU0yEnldMiKsng2CnYjt-7WQCLcBGAsYHQ/s320/0.jpg" group-title="Canais de TV (Teste)", ESPN Brasil
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-I7YWtjiFL-E/XlP9Ubix8LI/AAAAAAAAAEU/jH214xJ-6WgZmjDBUaBw8P11CnDrtXfvwCLcBGAsYHQ/s320/79.jpg" group-title="Canais de TV (Teste)", Disney Junior
+https://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-TE68EQh0q1s/XlP8Pl1jzsI/AAAAAAAAAEM/TFr9vojA2LQJWwB9UxvobgvxvdtkW-6cACLcBGAsYHQ/s320/78.png" group-title="Canais de TV (Teste)", Cultura
+https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-asNn1mbHWos/XlU-MIt717I/AAAAAAAAAGM/xSc7Lb8XuLk-eBsJMTeBgadwSio5T7sAACLcBGAsYHQ/s320/SBT.png" group-title="Canais de TV (Teste)", SBT SP
+https://5a1c76baf08c0.streamlock.net/z343-live/z343/chunklist_w1159953906.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-XCQz2hBPxtA/XlzmAZC7vrI/AAAAAAAAAG8/c6pai0jzWb4xI7fD9SfiXoNEgnjPJekbwCLcBGAsYHQ/s320/4.jpg" group-title="Canais de TV (Teste)", MTV Brasil
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/mtv.smil/chunklist_b1431167_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-P2qPufNUH0E/XlU8uHWn7FI/AAAAAAAAAF8/kJjnWEP51mscHtqbM_2EsGbAPjmvnkijACLcBGAsYHQ/s320/DC.jpg" group-title="Canais de TV (Teste)", Discovery Channel BR
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b1431167_sleng.m3u8
